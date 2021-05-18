@@ -9,7 +9,7 @@
 
 - The OpenCV tracks the ARUco markers present in the input frame &#8594; Mark the bounding frame around it &#8594; Augments the provided image on that bounding frame.
 
-![aruco marker](https://lh3.googleusercontent.com/proxy/23uzxchUk_wExOUFEjk4zs-YrSB92aD3w2eIyabi4i81dJcDmojDkQbGDHQGne2gzBdki_ITDHkIIfFR-xXkvRxwBEdq4r1X8-8)
+![aruco marker](http://jevois.org/moddoc/DemoArUco/screenshot5.png)
 Image Source : [jevois.org](https://jevois.org)
 
 - This overall process is made possible using advanced image processing techniques like Homography and Image Masking. 
