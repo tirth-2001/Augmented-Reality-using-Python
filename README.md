@@ -48,7 +48,7 @@ Image Source : [jevois.org](https://jevois.org)
 
 1.  Clone the repository on your system
     
-    `git clone https://github.com/tirth-2001/Meditech-Healthcare.git`
+    `git clone https://github.com/tirth-2001/Augmented-Reality-using-Python.git`
     
 2.  Or direct download ZIP file in your system
 3. For running the project, first make a playcard which has respective ARUco Marker pasted on it. Take reference from the video shown in the demo section above.
